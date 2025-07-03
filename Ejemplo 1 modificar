@@ -1,1 +1,16 @@
-#Este documento es la pruba de que lo acabo de crear
+# Este es el Título Principal
+
+Este documento es la **prueba** de que lo acabo de crear.
+
+## Sección Importante
+
+Aquí puedo añadir más detalles sobre mis pruebas.
+
+* Un elemento de lista
+* Otro elemento de lista
+
+Puedes usar `código` en línea.
+
+```python
+# Ejemplo de bloque de código Python
+print("Hola, mundo!")
